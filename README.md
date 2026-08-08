@@ -7,7 +7,7 @@ I use this space to build, experiment with, and document software projects acros
 
 ---
 ## GitHub Project 
-You Can see a Button of Repository in which I have all my Projects 👆☝️<img width="480" height="480" alt="SwipeUpGIF" src="https://github.com/user-attachments/assets/f75a0514-c71c-4ebb-82fd-c02c2b9dabdd" />
+You Can see a Button of Repository in which I have all my Projects 👆☝️<img width="100" height="100" alt="SwipeUpGIF" src="https://github.com/user-attachments/assets/f75a0514-c71c-4ebb-82fd-c02c2b9dabdd" />
 
 
 ## 🚀 About Me
