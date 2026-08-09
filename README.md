@@ -164,27 +164,6 @@ and Python-based backend technologies including:
 
 ---
 
-## 🏢 Professional Experience
-
-### Aerolam Insulation Pvt. Ltd.
-
-**Area Sales Manager**
-**2023 – Present**
-
-* Area and territory sales management
-* Customer relationship management
-* Team coordination
-* Business development
-* Sales planning and execution
-* Achievement of sales targets
-
-🏆 **Best Sales**
-🏆 **Best Team Employee — 2026**
-
-### 2020 – 2023
-
-Professional career break during the COVID-19 pandemic.
-
 ---
 
 ## 🏢 Previous Technology Experience
